@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(221, 201, 25);
+width: 70%;
+}
+.container{
+    background-color: rgb(66, 4, 67);
+    color: aliceblue;
+    width:50% ;
+    height:400px;
+    text-align: center;
+justify-content:center ;
+position: relative;
+left: 30%;
+border-radius: 20px;
+padding: 10px;
+margin: 20px;
+}
+button:hover{
+    background-color: grey;
+color: aliceblue;
+border: 5px solid grey;
+}
+#todoList{
+    text-transform: uppercase;
+}
+button{
+    padding: 5px;
+    border-radius: 5px;
+    width: 50px;
+}
+input{
+    text-align: center;
+    height: 30px;
+    border-radius: 10px;
+}
